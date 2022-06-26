@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="you_are">"You are about to get "</string>
+    <string name="do_you">" Do you approve this transaction? "</string>
+
+
+</resources>
